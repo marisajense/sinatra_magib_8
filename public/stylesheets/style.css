@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+  color: green;
+}
+
+nav {
+  color: purple;
+  font-size: 30px;
+  letter-spacing: 1px;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+}
+
+nav :hover {
+  color: white;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
+
+.eightpic {
+  border: 5px solid green;
+  height: 300px;
+  width: auto;
+  margin-top: 50px;
+}
+
+.main {
+  text-align: center;
+}
